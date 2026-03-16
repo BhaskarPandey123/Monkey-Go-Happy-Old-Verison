@@ -57,6 +57,10 @@ Monkey game/
 ```
        
 ## Future Improvements
+- Better banana creation mechanism
+- Better storage management
+- Better frame management
+- Revision for size scale.
 - Mobile touch controls
 - Screen resolution and management
 - Better animation
